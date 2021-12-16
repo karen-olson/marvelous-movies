@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Marvelous Movies
+
+Plan:
+To start:
+
+- Display movie cards
+- Add movie
+- Delete movie
+
+Extras:
+
+- When you click on a movie card, it shows more information
+- Save movie to your downloads list
+- Edit movie
+
+Create seed data
